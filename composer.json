@@ -2,6 +2,11 @@
     "name": "uzyn/composer",
     "type": "cakephp-plugin",
     "description": "CakePHP Composer plugin (handy)",
+    "homepage": "https://github.com/uzyn/cakephp-composer",
+    "keywords": ["cakephp", "composer", "devtools"],
+    "support": {
+        "source": "https://github.com/uzyn/cakephp-composer"
+    },
     "authors": [
         {
             "name": "uzyn",
