@@ -1,11 +1,14 @@
 {
     "name": "uzyn/cakephp-composer",
-    "type": "cake-plugin",
+    "type": "cakephp-plugin",
     "description": "CakePHP Composer plugin (handy)",
     "authors": [
         {
             "name": "uzyn",
             "email": "chua@uzyn.com"
         }
-    ]
+    ],
+    "require": {
+        composer/installers: "*"
+    }
 }
