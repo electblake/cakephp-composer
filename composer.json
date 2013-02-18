@@ -1,5 +1,5 @@
 {
-    "name": "uzyn/cakephp-composer",
+    "name": "uzyn/composer",
     "type": "cakephp-plugin",
     "description": "CakePHP Composer plugin (handy)",
     "authors": [
