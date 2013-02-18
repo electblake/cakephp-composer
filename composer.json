@@ -1,0 +1,10 @@
+{
+    "name": "uzyn/cakephp-composer",
+    "description": "CakePHP Composer plugin (handy)",
+    "authors": [
+        {
+            "name": "uzyn",
+            "email": "chua@uzyn.com"
+        }
+    ]
+}
